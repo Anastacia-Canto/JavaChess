@@ -18,3 +18,4 @@ The project was developed on Java and the objective was pratice the concepts of:
  ```
  java application/Program
  ```
+![img](https://github.com/Anastacia-Canto/JavaChess/blob/main/Screenshot%20from%202022-11-03%2012-50-14.png)
