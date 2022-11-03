@@ -3,7 +3,7 @@
 This is a project of a chess game on shell developed on the course "Java Completo Programação Orientada a Objetos + Projetos" with 
 teacher Nelio Alves on Udemy platform.
 
-The project was developed on Java and the objective was pratice the concepts of:
+The project was developed on Java and the objective was practice the concepts of:
 
  - Classes
  - Objects
